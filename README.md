@@ -4,6 +4,16 @@
 
 All experiments in this project are conducted using Python **3.12**.
 
+
+If you find this repository helpful in your publications, please consider citing our paper.
+
+@article{qichao2025single,
+  title={A Single-Loop Gradient Algorithm for Pessimistic Bilevel Optimization via Smooth Approximation},
+  author={Qichao, Cao and Shangzhi, Zeng and Jin Zhang},
+  journal={arXiv preprint arXiv:2509.26240},
+  year={2025}
+}
+
 ## Synthetic Example
 
 1. **Convergence Curve**&#x20;
