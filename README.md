@@ -20,7 +20,7 @@ If you find this repository helpful in your publications, please consider citing
 
    To draw the results in Figure 1, please run
 
-   &#x20;`Synthetic example/AdaProx_PD.py`, `Synthetic example/AdaProx_SG.py`, `Synthetic example/SiPBA.py` and  `Synthetic example/plot.py`
+   `Synthetic example/SiPBA.py`
 
 2. **Results in Table 1**
 
